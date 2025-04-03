@@ -1,0 +1,7 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.0
+SQLAlchemy==2.0.40
+psycopg2-binary==2.9.10
+celery==5.5.0
+redis==6.0.0b1
+pydantic==1.10.8
